@@ -1,0 +1,8 @@
+{
+  "name": "Eshuli Technology Ltd",
+  "description": "An advanced online and physical college specializing in electronics repair, embedded systems development, and graphic design based in Rwanda.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
